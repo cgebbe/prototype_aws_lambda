@@ -1,0 +1,10 @@
+pandas
+numpy
+jupyter
+ipykernel
+sklearn
+matplotlib
+
+pyyaml
+loguru
+click
